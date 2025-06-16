@@ -1,0 +1,13 @@
+h1 {
+  background-color: rgb(9, 216, 248);
+  color: navy;
+  margin-left: 20px
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
